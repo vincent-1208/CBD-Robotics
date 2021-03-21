@@ -1,14 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[56]:
-
 
 import random
-
-
-# In[57]:
-
 
 questions = {'strong': 'Do ye like yer drinks strong?',
             'salty': 'Do ye like it with a salty tang?',
@@ -20,10 +11,6 @@ ingredients = {"strong": ["glug of rum", "slug of whisky", "splash of gin"],
                "bitter": ["shake of bitters", "splash of tonic", "twist of lemon peel"],
                "sweet": ["sugar cube", "spoonful of honey", "spash of cola"],
                "fruity": ["slice of orange", "dash of cassis", "cherry on top"]}
-
-
-# In[58]:
-
 
 print('Choice of y/n')
 print(questions['strong'])
