@@ -1,0 +1,5 @@
+Exploratory Data Analysis (EDA):
+    + Read file data and show data set (read)
+    + Show total observations and characteristics of data set (rows and columns):  (shape)
+    + Show the columns and their correspoding data types, finding whether they contain null values or not. (inf())
+    +
